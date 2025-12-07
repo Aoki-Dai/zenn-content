@@ -3,7 +3,7 @@ title: "Vue Fes Japan 2025に参加してきました"
 emoji: "🌟"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [vue, nuxtjs]
-published: false
+published: true
 ---
 ## はじめに
 
